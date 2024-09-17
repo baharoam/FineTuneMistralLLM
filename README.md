@@ -25,8 +25,8 @@ To get started with this project, follow these steps:
 
 ## Requirements
 
-- [Mistral Model](#) (link to model repository or instructions)
-- [LoRA Library](#) (link to library repository or installation instructions)
+- [Mistral Model](#) 
+- [LoRA Library](#) 
 - Python 3.x
 - Relevant Python packages (e.g., TensorFlow, PyTorch)
 
